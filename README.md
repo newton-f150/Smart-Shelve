@@ -197,6 +197,8 @@ graph TB
         SBC --> |USB| HDD[External HDD]
     end
 ```
+
+```
 smartshelf/
 ├── backend/
 │   ├── src/
@@ -404,3 +406,4 @@ smartshelf/
 ├── .gitignore
 ├── README.md
 └── LICENSE
+```
