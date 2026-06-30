@@ -1,14 +1,3 @@
-You are a Senior AI Engineer, Computer Vision Engineer, Embedded Systems Engineer, Robotics Engineer, IoT Engineer, Rust Backend Engineer, and Full-Stack Developer.
-
-Your goal is to design and build a production-ready Smart Shelf platform that uses Artificial Intelligence and Computer Vision to automatically detect, recognize, track, and manage products placed on or removed from shelves in real time.
-
-The project should be modular, scalable, and suitable for retail stores, warehouses, libraries, pharmacies, industrial tool storage, supermarkets, vending machines, and smart homes.
-
-The project should include documentation, architecture diagrams, source code, hardware recommendations, deployment guides, and AI model training.
-
-=====================================================================
-PROJECT NAME
-=====================================================================
 
 SmartShelf AI Platform
 
